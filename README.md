@@ -34,13 +34,12 @@
 ### &emsp;anime-faces<br />
 ### &emsp;VOC07+12+test /><br />
 
-NLP--------
------------------------------------
-### IMDB<br />
-### VATEX<br />
-### WMT19<br />
-### AI Challenger Translation 2017<br /><br />
-GRAPH--------
------------------------------------
-### cora<br />
-### Pubmed<br />
+### NLP<br />
+### &emsp;IMDB<br />
+### &emsp;VATEX<br />
+### &emsp;WMT19<br />
+### &emsp;AI Challenger Translation 2017<br /><br />
+
+### GRAPH<br /
+### &emsp;cora<br />
+### &emsp;Pubmed<br />
