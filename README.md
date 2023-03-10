@@ -8,22 +8,22 @@
 ### MLP<br />
 ### CNN<br />
 ### RNN<br />
-### &emsp;SimpleRNN<br />
-### &emsp;LSTM<br />
-### &emsp;GRU<br />
+### &emsp;- SimpleRNN<br />
+### &emsp;- LSTM<br />
+### &emsp;- GRU<br />
 ### GAN<br />
-### &emsp;SimpleGAN<br />
-### &emsp;DCGAN<br />
+### &emsp;- SimpleGAN<br />
+### &emsp;- DCGAN<br />
 ### Difusion<br />
-### &emsp;DDPM<br />
-### &emsp;DDIM<br />
-### &emsp;StableDiffusion<br />
+### &emsp;- DDPM<br />
+### &emsp;- DDIM<br />
+### &emsp;- StableDiffusion<br />
 ### YOLO<br />
-### &emsp;YOLO-V1<br />
-### &emsp;YOLO-V2<br />
-### &emsp;YOLO-V3<br />
-### &emsp;YOLO-V4<br />
-### &emsp;YOLO-V5<br /><br />
+### &emsp;- YOLO-V1<br />
+### &emsp;- YOLO-V2<br />
+### &emsp;- YOLO-V3<br />
+### &emsp;- YOLO-V4<br />
+### &emsp;- YOLO-V5<br /><br />
 
 下面是数据集，个人搜集自互联网，侵删。
 -----------------------------------
@@ -40,6 +40,6 @@
 ### &emsp;- WMT19<br />
 ### &emsp;- AI Challenger Translation 2017<br /><br />
 
-### GRAPH<br /
+### GRAPH<br />
 ### &emsp;- cora<br />
 ### &emsp;- Pubmed<br />
