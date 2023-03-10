@@ -23,9 +23,8 @@
 ### &emsp;YOLO-V2<br />
 ### &emsp;YOLO-V3<br />
 ### &emsp;YOLO-V4<br />
-### &emsp;YOLO-V5<br />
-   
-### <br/><br/>
+### &emsp;YOLO-V5<br /><br />
+
 下面是数据集，个人搜集自互联网，侵删。
 -----------------------------------
 CV
