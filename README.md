@@ -28,18 +28,18 @@
 下面是数据集，个人搜集自互联网，侵删。
 -----------------------------------
 
-### <font color="" size=16 face="">CV</font>
+### CV<br />
 ### &emsp;- mnist<br />
 ### &emsp;- flowers<br />
 ### &emsp;- anime-faces<br />
 ### &emsp;- VOC07+12+test /><br /><br />
 
-### <font color="" size=8 face="">NLP</font>
+### NLP<br />
 ### &emsp;- IMDB<br />
 ### &emsp;- VATEX<br />
 ### &emsp;- WMT19<br />
 ### &emsp;- AI Challenger Translation 2017<br /><br />
 
-### <font color="" size=8 face="">Graph</font>
+### Graph<br />
 ### &emsp;- cora<br />
 ### &emsp;- Pubmed<br />
