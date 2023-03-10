@@ -29,6 +29,7 @@
 -----------------------------------
 
 ### CV<br />
+### <font color="" size=6 face="">CV</font>
 ### &emsp;- mnist<br />
 ### &emsp;- flowers<br />
 ### &emsp;- anime-faces<br />
