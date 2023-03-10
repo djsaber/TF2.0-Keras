@@ -1,8 +1,7 @@
 # TF2.0-Keras 炼丹记录
 本人是一名即将毕业的工科研究生，读研期间基于TF2.0和Keras开源框架陆续搭建深度学习模型，所以就创建一个记录集合，希望能帮助一些使用Keras的小白同学。
 -----------------------------------
-<img src="https://github.com/djsaber/TF2.0-Keras-/blob/main/saber.jpg" width="400" height="400" alt="图片加载失败啦ಥ_ಥ" title="" style="zoom:50%;"/>
-
+![alt jpg](https://github.com/djsaber/TF2.0-Keras-/blob/main/saber.jpg)
 下面是整个目录，持续更新中...
 -----------------------------------
 
