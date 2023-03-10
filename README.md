@@ -29,7 +29,7 @@
 -----------------------------------
 
 ### <font color="" size=8 face="">CV</font>
-### &emsp;- mnist<br />
+### &emsp;- <font color="" size=4 face="">mnist</font><br />
 ### &emsp;- flowers<br />
 ### &emsp;- anime-faces<br />
 ### &emsp;- VOC07+12+test /><br /><br />
