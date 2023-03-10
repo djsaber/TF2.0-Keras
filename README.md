@@ -24,14 +24,13 @@
 ### &emsp;- YOLO-V3<br />
 ### &emsp;- YOLO-V4<br />
 ### &emsp;- YOLO-V5<br />
-### 经典网络<br />
+### 经典网络架构<br />
 ### &emsp;- VGG<br />
 ### &emsp;- ResNet<br />
-### &emsp;- MobileNet<br />
+### &emsp;- MobileNet<br /><br />
 
-<br />下面是数据集，个人搜集自互联网，侵删。
+下面是数据集，个人搜集自互联网，侵删。
 -----------------------------------
-
 ### CV 计算机视觉<br />
 ### &emsp;- mnist<br />
 ### &emsp;- flowers<br />
