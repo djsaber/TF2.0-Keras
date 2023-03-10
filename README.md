@@ -29,17 +29,17 @@
 -----------------------------------
 
 ### CV<br />
-### &emsp;mnist<br />
-### &emsp;flowers<br />
-### &emsp;anime-faces<br />
-### &emsp;VOC07+12+test /><br />
+### &emsp;- mnist<br />
+### &emsp;- flowers<br />
+### &emsp;- anime-faces<br />
+### &emsp;- VOC07+12+test /><br /><br />
 
 ### NLP<br />
-### &emsp;IMDB<br />
-### &emsp;VATEX<br />
-### &emsp;WMT19<br />
-### &emsp;AI Challenger Translation 2017<br /><br />
+### &emsp;- IMDB<br />
+### &emsp;- VATEX<br />
+### &emsp;- WMT19<br />
+### &emsp;- AI Challenger Translation 2017<br /><br />
 
 ### GRAPH<br /
-### &emsp;cora<br />
-### &emsp;Pubmed<br />
+### &emsp;- cora<br />
+### &emsp;- Pubmed<br />
