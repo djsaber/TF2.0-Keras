@@ -6,12 +6,18 @@
 -----------------------------------
 
 ### MLP<br />
-    MLP
-    CNN
-    RNN
-      SimpleRNN
-      LSTM
-      GRU
+### CNN<br />
+### RNN<br />
+###     SimpleRNN<br />
+###     LSTM<br />
+###     GRU<br />
+### GAN<br />
+### SimpleGAN<br />
+### DCGAN<br />
+### MLP<br />
+### MLP<br />
+### MLP<br />
+### MLP<br />
     GAN
       SimpleGAN
       DCGAN
