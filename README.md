@@ -32,8 +32,7 @@
 下面是数据集，个人搜集自互联网，侵删。
 -----------------------------------
 ### CV 计算机视觉<br />
-### &emsp;- mnist 链接：https://pan.baidu.com/s/1H_tKQmVwg1_rr7E_pclpDw?pwd=52dl 
-提取码：52dl<br />
+### &emsp;- mnist 链接：https://pan.baidu.com/s/1H_tKQmVwg1_rr7E_pclpDw?pwd=52dl 提取码：52dl<br />
 ### &emsp;- flowers<br />
 ### &emsp;- anime-faces<br />
 ### &emsp;- VOC07+12+test /><br /><br />
