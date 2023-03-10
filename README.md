@@ -8,8 +8,8 @@
 ### MLP<br />
 ### CNN<br />
 ### RNN<br />
-###     SimpleRNN<br />
-###     LSTM<br />
+### > SimpleRNN<br />
+### > LSTM<br />
 ###     GRU<br />
 ### GAN<br />
 ###     SimpleGAN<br />
