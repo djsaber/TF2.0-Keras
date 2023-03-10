@@ -8,9 +8,9 @@
 ### MLP<br />
 ### CNN<br />
 ### RNN<br />
-### > SimpleRNN<br />
-### > LSTM<br />
-###     GRU<br />
+### &emsp;SimpleRNN<br />
+### &emsp;LSTM<br />
+### &emsp;GRU<br />
 ### GAN<br />
 ###     SimpleGAN<br />
 ###     DCGAN<br />
