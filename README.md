@@ -27,20 +27,20 @@
 
 下面是数据集，个人搜集自互联网，侵删。
 -----------------------------------
-CV
+CV--------
 -----------------------------------
 ### mnist<br />
 ### flowers<br />
 ### anime-faces<br />
-### VOC07+12+test />
+### VOC07+12+test /><br />
 
-NLP
+NLP--------
 -----------------------------------
 ### IMDB<br />
 ### VATEX<br />
 ### WMT19<br />
-### AI Challenger Translation 2017<br />
-GRAPH
+### AI Challenger Translation 2017<br /><br />
+GRAPH--------
 -----------------------------------
 ### cora<br />
 ### Pubmed<br />
