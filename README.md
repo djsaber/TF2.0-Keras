@@ -28,8 +28,8 @@
 下面是数据集，个人搜集自互联网，侵删。
 -----------------------------------
 
-### <font color="" size=8 face="">CV</font>
-### &emsp;- <font color="" size=4 face="">mnist</font><br />
+### <font color="" size=16 face="">CV</font>
+### &emsp;- mnist<br />
 ### &emsp;- flowers<br />
 ### &emsp;- anime-faces<br />
 ### &emsp;- VOC07+12+test /><br /><br />
