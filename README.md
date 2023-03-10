@@ -15,9 +15,9 @@
 ### &emsp;SimpleGAN<br />
 ### &emsp;DCGAN<br />
 ### Difusion<br />
-### DDPM<br />
-### DDIM<br />
-### StableDiffusion<br />
+### &emsp;DDPM<br />
+### &emsp;DDIM<br />
+### &emsp;StableDiffusion<br />
 ### YOLO<br />
 ### &emsp;YOLO-V1<br />
 ### &emsp;YOLO-V2<br />
