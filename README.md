@@ -12,23 +12,16 @@
 ###     LSTM<br />
 ###     GRU<br />
 ### GAN<br />
-### SimpleGAN<br />
-### DCGAN<br />
-### MLP<br />
-### MLP<br />
-### MLP<br />
-### MLP<br />
-    GAN
-      SimpleGAN
-      DCGAN
-    Difusion
-      DDPM
-      DDIM
-      StableDiffusion
-    YOLO
-      YOLO-V1
-      YOLO-V2
-      YOLO-V3
-      YOLO-V4
-      YOLO-V5
+###     SimpleGAN<br />
+###     DCGAN<br />
+### Difusion<br />
+### DDPM<br />
+### DDIM<br />
+### StableDiffusion<br />
+### YOLO<br />
+### YOLO-V1<br />
+### YOLO-V2<br />
+### YOLO-V3<br />
+### YOLO-V4<br />
+### YOLO-V5<br />
     
