@@ -28,10 +28,13 @@
 ### &emsp;- YOLO-V5<br />
 ### Transformer<br />
 ### 经典网络架构<br />
-### &emsp;- VGG<br />
-### &emsp;- ResNet<br />
-### &emsp;- MobileNet<br /><br />
-
+### &emsp;- VGG-16 <br />
+### &emsp;- ZF-Net <br />
+### &emsp;- Alex-Net <br />
+### &emsp;- LeNet <br />
+### &emsp;- Google-Net <br />
+### &emsp;- ResNet <br />
+### &emsp;- DenseNet-50 <br /><br />
 下面是数据集，个人搜集自互联网，侵删。
 -----------------------------------
 ### CV 计算机视觉<br />
