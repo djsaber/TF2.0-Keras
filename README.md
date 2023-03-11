@@ -5,8 +5,8 @@
 下面是实现的相关模型，持续更新中...
 -----------------------------------
 
-### MLP 地址：https://github.com/djsaber/Keras-MLP<br />
-### CNN<br />
+### MLP  地址：https://github.com/djsaber/Keras-MLP <br />
+### CNN  地址：https://github.com/djsaber/Keras-CNN <br />
 ### RNN<br />
 ### &emsp;- SimpleRNN<br />
 ### &emsp;- LSTM<br />
