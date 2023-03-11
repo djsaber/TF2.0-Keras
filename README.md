@@ -5,9 +5,9 @@
 下面是实现的相关模型，持续更新中...
 -----------------------------------
 
-### MLP 地址：https://github.com/djsaber/Keras-MLP <br />
+### MLP 地址：https://github.com/djsaber/Keras-MLP<br />
 ### CNN <br />
-### &emsp;- SimpleCNN 地址：https://github.com/djsaber/Keras-CNN <br />
+### &emsp;- SimpleCNN 地址：https://github.com/djsaber/Keras-CNN<br />
 ### &emsp;- UNet <br />
 ### RNN<br />
 ### &emsp;- SimpleRNN<br />
@@ -44,7 +44,7 @@
 ### &emsp;- flower_photos 链接：https://pan.baidu.com/s/1yobCV9j9m2la12YTId1TJg?pwd=52dl 提取码：52dl<br />
 
 ### &emsp;- anime-faces 链接：https://pan.baidu.com/s/1IlqGfVOSXoVlFAC9zOxNfQ?pwd=52dl 提取码：52dl<br />
-### &emsp;- VOC2007 链接：https://pan.baidu.com/s/1zRbTtM4KaE5aUVc0Jg3jsA?pwd=52dl 提取码：52dl/><br /><br />
+### &emsp;- VOC2007 链接：https://pan.baidu.com/s/1zRbTtM4KaE5aUVc0Jg3jsA?pwd=52dl 提取码：52dl<br /><br />
 
 ### NLP 自然语言处理<br />
 ### &emsp;- IMDB<br />
