@@ -10,7 +10,7 @@
 ### &emsp;- SimpleCNN 地址：https://github.com/djsaber/Keras-CNN<br />
 ### &emsp;- UNet 地址：https://github.com/djsaber/Keras-UNet<br />
 ### RNN<br />
-### &emsp;- SimpleRNN<br />
+### &emsp;- SimpleRNN 地址：https://github.com/djsaber/Keras-Simple_RNN<br />
 ### &emsp;- LSTM<br />
 ### &emsp;- GRU<br />
 ### GAN<br />
@@ -48,7 +48,7 @@
 ### &emsp;- VOC2007 链接：https://pan.baidu.com/s/1zRbTtM4KaE5aUVc0Jg3jsA?pwd=52dl 提取码：52dl<br /><br />
 
 ### NLP 自然语言处理<br />
-### &emsp;- IMDB<br />
+### &emsp;- IMDB 链接：https://pan.baidu.com/s/18nX-2mqJzYU8XKQ5cfhxvw?pwd=52dl 提取码：52dl<br />
 ### &emsp;- VATEX<br />
 ### &emsp;- WMT19<br />
 ### &emsp;- AI Challenger Translation 2017<br /><br />
