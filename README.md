@@ -16,7 +16,7 @@
 ### GAN<br />
 ### &emsp;- SimpleGAN<br />
 ### &emsp;- DCGAN<br />
-### Difusion<br />
+### Difusion Model<br />
 ### &emsp;- DDPM<br />
 ### &emsp;- DDIM<br />
 ### &emsp;- StableDiffusion<br />
