@@ -39,11 +39,10 @@
 -----------------------------------
 ### CV 计算机视觉<br />
 ### &emsp;- mnist 链接：https://pan.baidu.com/s/1H_tKQmVwg1_rr7E_pclpDw?pwd=52dl 提取码：52dl<br />
-
+### &emsp;- fashion-mnist 链接：https://pan.baidu.com/s/1iBNmixiuORjpHjDSFephcg?pwd=52dl 提取码：52dl<br />
 ### &emsp;- cat_vs_dog 链接：https://pan.baidu.com/s/1bcXBZy43KgUMlsqdjfjB5g?pwd=52dl 提取码：52dl<br />
 ### &emsp;- flower_photos 链接：https://pan.baidu.com/s/1yobCV9j9m2la12YTId1TJg?pwd=52dl 提取码：52dl<br />
 ### &emsp;- Medical_Datasets 链接：https://pan.baidu.com/s/1El3IXK4-ycQVCaXBYurVsA?pwd=52dl 提取码：52dl<br />
-
 ### &emsp;- anime-faces 链接：https://pan.baidu.com/s/1IlqGfVOSXoVlFAC9zOxNfQ?pwd=52dl 提取码：52dl<br />
 ### &emsp;- VOC2007 链接：https://pan.baidu.com/s/1zRbTtM4KaE5aUVc0Jg3jsA?pwd=52dl 提取码：52dl<br /><br />
 
