@@ -14,6 +14,9 @@
 ### &emsp;- LSTM 地址：https://github.com/djsaber/Keras-LSTM<br />
 ### &emsp;- GRU 地址：https://github.com/djsaber/Keras-GRU<br />
 ### GAN<br />
+### &emsp;- GCN<br />
+### &emsp;- GAT<br />
+### GAN<br />
 ### &emsp;- SimpleGAN 地址：https://github.com/djsaber/Keras-SimpleGAN<br />
 ### &emsp;- DCGAN 地址：https://github.com/djsaber/Keras-DCGAN<br />
 ### Difusion Model<br />
