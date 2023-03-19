@@ -57,4 +57,5 @@
 
 ### Graph 图数据集<br />
 ### &emsp;- cora 链接：https://pan.baidu.com/s/1u7v3oJcTvnFWAhHdSLHwtA?pwd=52dl 提取码：52dl<br />
+### &emsp;- citeseer 链接：https://pan.baidu.com/s/11n2AQCVSV6OevSkUhYWcNg?pwd=52dl 提取码：52dl <br />
 ### &emsp;- Pubmed<br />
