@@ -56,5 +56,5 @@
 ### &emsp;- AI Challenger Translation 2017<br /><br />
 
 ### Graph 图数据集<br />
-### &emsp;- cora<br />
+### &emsp;- cora 链接：https://pan.baidu.com/s/1u7v3oJcTvnFWAhHdSLHwtA?pwd=52dl 提取码：52dl<br />
 ### &emsp;- Pubmed<br />
