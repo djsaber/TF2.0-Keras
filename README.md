@@ -14,7 +14,7 @@
 ### &emsp;- LSTM 地址：https://github.com/djsaber/Keras-LSTM<br />
 ### &emsp;- GRU 地址：https://github.com/djsaber/Keras-GRU<br />
 ### GNN<br />
-### &emsp;- GCN 地址：https://github.com/djsaber/Keras-GC<br />
+### &emsp;- GCN 地址：https://github.com/djsaber/Keras-GCN<br />
 ### &emsp;- GAT 地址：https://github.com/djsaber/Keras-GAT<br />
 ### GAN<br />
 ### &emsp;- SimpleGAN 地址：https://github.com/djsaber/Keras-SimpleGAN<br />
