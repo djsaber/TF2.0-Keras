@@ -16,6 +16,7 @@
 ### GNN<br />
 ### &emsp;- GCN 地址：https://github.com/djsaber/Keras-GCN<br />
 ### &emsp;- GAT 地址：https://github.com/djsaber/Keras-GAT<br />
+### &emsp;- GraphSAGE 地址：https://github.com/djsaber/Keras-GraphSAGE<br />
 ### GAN<br />
 ### &emsp;- SimpleGAN 地址：https://github.com/djsaber/Keras-SimpleGAN<br />
 ### &emsp;- DCGAN 地址：https://github.com/djsaber/Keras-DCGAN<br />
@@ -58,4 +59,4 @@
 ### Graph 图数据集<br />
 ### &emsp;- cora 链接：https://pan.baidu.com/s/1u7v3oJcTvnFWAhHdSLHwtA?pwd=52dl 提取码：52dl<br />
 ### &emsp;- citeseer 链接：https://pan.baidu.com/s/11n2AQCVSV6OevSkUhYWcNg?pwd=52dl 提取码：52dl <br />
-### &emsp;- Pubmed<br />
+### &emsp;- pubmed<br />
