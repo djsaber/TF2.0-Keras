@@ -23,7 +23,7 @@
 ### Difusion Model<br />
 ### &emsp;- DDPM 地址：https://github.com/djsaber/Keras-DDPM<br />
 ### &emsp;- DDIM<br />
-### &emsp;- StableDiffusion<br />
+### &emsp;- StableDiffusion 地址：https://github.com/djsaber/Keras-StableDiffusion<br />
 ### YOLO<br />
 ### &emsp;- YOLO-V1<br />
 ### &emsp;- YOLO-V2<br />
