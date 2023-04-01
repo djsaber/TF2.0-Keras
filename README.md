@@ -21,7 +21,7 @@
 ### &emsp;- SimpleGAN 地址：https://github.com/djsaber/Keras-SimpleGAN<br />
 ### &emsp;- DCGAN 地址：https://github.com/djsaber/Keras-DCGAN<br />
 ### Difusion Model<br />
-### &emsp;- DDPM<br />
+### &emsp;- DDPM 地址：https://github.com/djsaber/Keras-DDPM<br />
 ### &emsp;- DDIM<br />
 ### &emsp;- StableDiffusion<br />
 ### YOLO<br />
