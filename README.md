@@ -52,9 +52,11 @@
 
 ### NLP 自然语言处理<br />
 ### &emsp;- IMDB 链接：https://pan.baidu.com/s/18nX-2mqJzYU8XKQ5cfhxvw?pwd=52dl 提取码：52dl<br />
+### &emsp;- NMT 链接：https://pan.baidu.com/s/1452fb6yaCr83Zjp0Qnwvvg?pwd=52dl 提取码：52dl<br />
 ### &emsp;- VATEX<br />
 ### &emsp;- WMT19<br />
-### &emsp;- AI Challenger Translation 2017<br /><br />
+### &emsp;- AI Challenger Translation 2017 链接：https://pan.baidu.com/s/1j3EBzNyHP9lGDzOapHAtSQ?pwd=52dl 提取码：52dl<br /><br />
+
 
 ### Graph 图数据集<br />
 ### &emsp;- cora 链接：https://pan.baidu.com/s/1u7v3oJcTvnFWAhHdSLHwtA?pwd=52dl 提取码：52dl<br />
