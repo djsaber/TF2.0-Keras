@@ -54,8 +54,7 @@
 ### &emsp;- IMDB 链接：https://pan.baidu.com/s/18nX-2mqJzYU8XKQ5cfhxvw?pwd=52dl 提取码：52dl<br />
 ### &emsp;- NMT 链接：https://pan.baidu.com/s/1452fb6yaCr83Zjp0Qnwvvg?pwd=52dl 提取码：52dl<br />
 ### &emsp;- VATEX<br />
-### &emsp;- WMT19 链接：https://pan.baidu.com/s/1tcBhb74XdcRJi0anWp2JnQ?pwd=52dl 提取码：52dl 
---来自百度网盘超级会员V1的分享<br />
+### &emsp;- WMT19 链接：https://pan.baidu.com/s/1tcBhb74XdcRJi0anWp2JnQ?pwd=52dl 提取码：52dl <br />
 ### &emsp;- AI Challenger Translation 2017 链接：https://pan.baidu.com/s/1j3EBzNyHP9lGDzOapHAtSQ?pwd=52dl 提取码：52dl<br /><br />
 
 
